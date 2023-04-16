@@ -1,9 +1,9 @@
 {
-    "ownerNumber": ["6282193115723@s.whatsapp.net","62887435047326@s.whatsapp.net"],
-    "ownerName": "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×",
-    "instagram" : "https://instagram.com/zeeoneofc",
+    "ownerNumber": ["6283182628110@s.whatsapp.net","6282163403132@s.whatsapp.net"],
+    "ownerName": "Chaaannn",
+    "instagram" : "https://instagram.com/chaaannn",
     "gcwa" : "https://instabio.cc/Alphabot",
-    "botName": "Haruka-Mdོ ",
+    "botName": "Chaneedyou`",
     "footer": "api.zeeoneofc.my.id",
     "sessionName": "session",
     "fotoDonasi": "./qris.jpg",
@@ -13,7 +13,7 @@
     "audio_di_bagian_menu": "./menu.mp3",
     "auto_welcomeMsg": true,
     "auto_leaveMsg": true, 
-    "antiViewOnce": true,
+    "antiViewOnce": false,
     "grupOnly": false,
     "antiDelete": false,
     "autobio": false,
@@ -21,10 +21,10 @@
     "autorespond": false,
     "autoblok212": true,
     "autoread": true,
-    "gamewaktu": 90,
+    "gamewaktu": 60,
     "limitCount": 25,
     "gcount": {
-        "prem": 1000,
-        "user": 15
+        "prem": 10000,
+        "user": 100
     }
 }
